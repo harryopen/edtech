@@ -6,7 +6,7 @@ function Courses() {
   
   return (
     <>
-     <div className='text-4xl flex justify-center p-10'>
+     <div className='text-4xl flex justify-center p-10 '>
      <h1 > Courses</h1>
 
      </div>
